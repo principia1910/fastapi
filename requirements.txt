@@ -1,0 +1,10 @@
+fastapi[standard]
+SQLAlchemy
+passlib
+python-jose
+pydantic-settings
+python-dotenv
+psycopg2
+bcrypt
+python-multipart
+boto3
